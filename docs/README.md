@@ -1,0 +1,33 @@
+# Magisk Documentations
+(Updated on 2019.3.28)
+
+- [Installation](install.md)
+    - [Prerequisite](install.md#prerequisite)
+    - [Custom Recovery](install.md#custom-recovery)
+    - [Boot Image Patching](install.md#boot-image-patching)
+    - [Huawei](install.md#huawei)
+- [Tutorials](tutorials.md)
+    - [OTA Installation](tutorials.md#ota-installation)
+    - [Best Practices for MagiskHide](tutorials.md#best-practices-for-magiskhide)
+
+The followings are for developers
+
+- [Magisk Details](details.md)
+    - [File Structure](details.md#file-structure)
+    - [Magisk Booting Process](details.md#magisk-booting-process)
+    - [Resetprop](details.md#resetprop)
+    - [Magic Mount](details.md#magic-mount)
+    - [Miscellaneous](details.md#miscellaneous)
+- [Magisk Tools](tools.md)
+- [Developer Guides](guides.md)
+    - [Magisk Modules](guides.md#magisk-modules)
+    - [Magisk Module Installer](guides.md#magisk-module-installer)
+    - [Submit Modules](guides.md#submit-modules)
+    - [Notes on Partitions](guides.md#notes-on-partitions)
+    - [Boot Scripts](guides.md#boot-scripts)
+    - [Remove Files](guides.md#remove-files)
+    - [Remove Folders](guides.md#remove-folders)
+- [Deployment](deploy.md)
+    - [Systemless](deploy.md#systemless)
+    - [System Only](deploy.md#system-only)
+    - [Exploits](deploy.md#exploits)
